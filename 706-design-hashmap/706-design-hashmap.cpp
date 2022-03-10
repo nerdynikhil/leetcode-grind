@@ -3,7 +3,7 @@ public:
     vector<list<pair<int,int>>> m;
     int size;
     MyHashMap() {
-        size = 1e6+1;
+        size = 1000;
         m.resize(size);
     }
     
@@ -16,6 +16,7 @@ public:
         list<pair<int, int>> :: iterator it = m[i].begin();
         while(it!=m[i].end()){
             if (it->first==key) return it;
+            it++;
         }
         return it;
     }
