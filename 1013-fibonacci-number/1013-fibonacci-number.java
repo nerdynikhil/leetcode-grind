@@ -1,16 +1,23 @@
 class Solution {
-    int nthFib(int n) {
+    int nthFib(int n, HashMap<Integer, Integer> memo) {
 
         if (n == 0 || n == 1)
             return n;
 
-        int a = nthFib(n - 1);
-        int b = nthFib(n - 2);
+        int currentKey = n;
 
-        return a + b;
+        if (memo.containsKey(currentKey))
+            return memo.get(currentKey);
+
+        int a = nthFib(n - 1, memo);
+        int b = nthFib(n - 2, memo);
+
+        memo.put(currentKey, a + b);
+        return memo.get(currentKey);
     }
 
     public int fib(int n) {
-        return nthFib(n);
+        HashMap<Integer, Integer> memo = new HashMap<Integer, Integer>();
+        return nthFib(n, memo);
     }
 }
