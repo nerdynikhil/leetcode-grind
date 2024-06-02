@@ -14,14 +14,11 @@
  * }
  */
 class Solution {
-    void findLeaves(TreeNode root, List<Integer> leaves) {
+    private void findLeaves(TreeNode root, List<Integer> leaves) {
         if (root == null)
             return;
-
-        if (root.left == null && root.right == null) {
+        if (root.left == null && root.right == null)
             leaves.add(root.val);
-            return;
-        }
 
         findLeaves(root.left, leaves);
         findLeaves(root.right, leaves);
@@ -29,12 +26,15 @@ class Solution {
     }
 
     public boolean leafSimilar(TreeNode root1, TreeNode root2) {
-        List<Integer> leavesOfT1 = new ArrayList<Integer>();
-        List<Integer> leavesOfT2 = new ArrayList<Integer>();
+        List<Integer> leaves1 = new ArrayList<>();
+        List<Integer> leaves2 = new ArrayList<>();
 
-        findLeaves(root1, leavesOfT1);
-        findLeaves(root2, leavesOfT2);
+        findLeaves(root1, leaves1);
+        findLeaves(root2, leaves2);
 
-        return leavesOfT1.equals(leavesOfT2);
+        if (leaves1.equals(leaves2))
+            return true;
+        else
+            return false;
     }
 }
