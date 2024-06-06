@@ -37,6 +37,7 @@
 # String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nerdynikhil/leetcode-grind/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/nerdynikhil/leetcode-grind/tree/master/0344-reverse-string) |
 | [1044-find-common-characters](https://github.com/nerdynikhil/leetcode-grind/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/nerdynikhil/leetcode-grind/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -52,3 +53,11 @@
 |  |
 | ------- |
 | [1044-find-common-characters](https://github.com/nerdynikhil/leetcode-grind/tree/master/1044-find-common-characters) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/nerdynikhil/leetcode-grind/tree/master/0022-generate-parentheses) |
+# Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/nerdynikhil/leetcode-grind/tree/master/0022-generate-parentheses) |
