@@ -51,6 +51,7 @@
 # Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/nerdynikhil/leetcode-grind/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/nerdynikhil/leetcode-grind/tree/master/0078-subsets) |
 | [0523-continuous-subarray-sum](https://github.com/nerdynikhil/leetcode-grind/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/nerdynikhil/leetcode-grind/tree/master/0648-replace-words) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nerdynikhil/leetcode-grind/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/nerdynikhil/leetcode-grind/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/nerdynikhil/leetcode-grind/tree/master/0078-subsets) |
 # Sorting
 |  |
