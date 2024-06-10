@@ -51,6 +51,7 @@
 # Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nerdynikhil/leetcode-grind/tree/master/0078-subsets) |
 | [0523-continuous-subarray-sum](https://github.com/nerdynikhil/leetcode-grind/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/nerdynikhil/leetcode-grind/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/nerdynikhil/leetcode-grind/tree/master/0876-hand-of-straights) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nerdynikhil/leetcode-grind/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/nerdynikhil/leetcode-grind/tree/master/0078-subsets) |
 # Sorting
 |  |
 | ------- |
@@ -89,3 +91,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/nerdynikhil/leetcode-grind/tree/master/0523-continuous-subarray-sum) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/nerdynikhil/leetcode-grind/tree/master/0078-subsets) |
