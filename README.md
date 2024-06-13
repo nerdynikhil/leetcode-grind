@@ -48,6 +48,7 @@
 | ------- |
 | [0876-hand-of-straights](https://github.com/nerdynikhil/leetcode-grind/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nerdynikhil/leetcode-grind/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nerdynikhil/leetcode-grind/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/nerdynikhil/leetcode-grind/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
 |  |
@@ -62,6 +63,7 @@
 | [1137-height-checker](https://github.com/nerdynikhil/leetcode-grind/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/nerdynikhil/leetcode-grind/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nerdynikhil/leetcode-grind/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nerdynikhil/leetcode-grind/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [1137-height-checker](https://github.com/nerdynikhil/leetcode-grind/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/nerdynikhil/leetcode-grind/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nerdynikhil/leetcode-grind/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nerdynikhil/leetcode-grind/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
 |  |
 | ------- |
