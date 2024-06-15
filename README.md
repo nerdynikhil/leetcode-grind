@@ -42,6 +42,7 @@
 | [0344-reverse-string](https://github.com/nerdynikhil/leetcode-grind/tree/master/0344-reverse-string) |
 | [0648-replace-words](https://github.com/nerdynikhil/leetcode-grind/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/nerdynikhil/leetcode-grind/tree/master/1044-find-common-characters) |
+| [1160-letter-tile-possibilities](https://github.com/nerdynikhil/leetcode-grind/tree/master/1160-letter-tile-possibilities) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/nerdynikhil/leetcode-grind/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
 |  |
@@ -73,6 +74,7 @@
 | [0648-replace-words](https://github.com/nerdynikhil/leetcode-grind/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/nerdynikhil/leetcode-grind/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/nerdynikhil/leetcode-grind/tree/master/1044-find-common-characters) |
+| [1160-letter-tile-possibilities](https://github.com/nerdynikhil/leetcode-grind/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/nerdynikhil/leetcode-grind/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nerdynikhil/leetcode-grind/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Dynamic Programming
@@ -85,6 +87,7 @@
 | [0022-generate-parentheses](https://github.com/nerdynikhil/leetcode-grind/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/nerdynikhil/leetcode-grind/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/nerdynikhil/leetcode-grind/tree/master/0078-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/nerdynikhil/leetcode-grind/tree/master/1160-letter-tile-possibilities) |
 # Sorting
 |  |
 | ------- |
@@ -116,4 +119,5 @@
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/nerdynikhil/leetcode-grind/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/nerdynikhil/leetcode-grind/tree/master/1137-height-checker) |
+| [1160-letter-tile-possibilities](https://github.com/nerdynikhil/leetcode-grind/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/nerdynikhil/leetcode-grind/tree/master/1217-relative-sort-array) |
