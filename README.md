@@ -34,6 +34,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/nerdynikhil/leetcode-grind/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/nerdynikhil/leetcode-grind/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/nerdynikhil/leetcode-grind/tree/master/0633-sum-of-square-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/nerdynikhil/leetcode-grind/tree/master/2481-strictly-palindromic-number) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/nerdynikhil/leetcode-grind/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/nerdynikhil/leetcode-grind/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/nerdynikhil/leetcode-grind/tree/master/0633-sum-of-square-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/nerdynikhil/leetcode-grind/tree/master/2481-strictly-palindromic-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/nerdynikhil/leetcode-grind/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 # Prefix Sum
@@ -136,3 +138,7 @@
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/nerdynikhil/leetcode-grind/tree/master/2481-strictly-palindromic-number) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/nerdynikhil/leetcode-grind/tree/master/0633-sum-of-square-numbers) |
