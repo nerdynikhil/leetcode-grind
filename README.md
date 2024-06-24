@@ -116,6 +116,7 @@
 # Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/nerdynikhil/leetcode-grind/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/nerdynikhil/leetcode-grind/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/nerdynikhil/leetcode-grind/tree/master/0633-sum-of-square-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/nerdynikhil/leetcode-grind/tree/master/2481-strictly-palindromic-number) |
@@ -152,6 +153,7 @@
 # Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/nerdynikhil/leetcode-grind/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/nerdynikhil/leetcode-grind/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/nerdynikhil/leetcode-grind/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nerdynikhil/leetcode-grind/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
