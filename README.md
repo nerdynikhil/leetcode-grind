@@ -67,6 +67,7 @@
 | [0853-most-profit-assigning-work](https://github.com/nerdynikhil/leetcode-grind/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/nerdynikhil/leetcode-grind/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/nerdynikhil/leetcode-grind/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nerdynikhil/leetcode-grind/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1044-find-common-characters](https://github.com/nerdynikhil/leetcode-grind/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/nerdynikhil/leetcode-grind/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/nerdynikhil/leetcode-grind/tree/master/1138-grumpy-bookstore-owner) |
@@ -123,10 +124,12 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/nerdynikhil/leetcode-grind/tree/master/0523-continuous-subarray-sum) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nerdynikhil/leetcode-grind/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nerdynikhil/leetcode-grind/tree/master/0078-subsets) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nerdynikhil/leetcode-grind/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Counting Sort
 |  |
 | ------- |
@@ -156,4 +159,9 @@
 # Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nerdynikhil/leetcode-grind/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/nerdynikhil/leetcode-grind/tree/master/1138-grumpy-bookstore-owner) |
+# Queue
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nerdynikhil/leetcode-grind/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
