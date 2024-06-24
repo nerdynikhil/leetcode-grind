@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/nerdynikhil/leetcode-grind/tree/master/0039-combination-sum) |
+| [0073-set-matrix-zeroes](https://github.com/nerdynikhil/leetcode-grind/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nerdynikhil/leetcode-grind/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/nerdynikhil/leetcode-grind/tree/master/0078-subsets) |
 | [0523-continuous-subarray-sum](https://github.com/nerdynikhil/leetcode-grind/tree/master/0523-continuous-subarray-sum) |
@@ -79,6 +80,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/nerdynikhil/leetcode-grind/tree/master/0073-set-matrix-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/nerdynikhil/leetcode-grind/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/nerdynikhil/leetcode-grind/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/nerdynikhil/leetcode-grind/tree/master/0876-hand-of-straights) |
@@ -167,3 +169,7 @@
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/nerdynikhil/leetcode-grind/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/nerdynikhil/leetcode-grind/tree/master/0073-set-matrix-zeroes) |
