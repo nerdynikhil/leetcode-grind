@@ -173,3 +173,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/nerdynikhil/leetcode-grind/tree/master/0073-set-matrix-zeroes) |
+# Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/nerdynikhil/leetcode-grind/tree/master/1908-recyclable-and-low-fat-products) |
