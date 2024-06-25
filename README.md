@@ -7,6 +7,7 @@
 | [0100-same-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0226-invert-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0538-convert-bst-to-greater-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/1035-cousins-in-binary-tree) |
 # Depth-First Search
 |  |
@@ -14,6 +15,7 @@
 | [0100-same-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0226-invert-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0538-convert-bst-to-greater-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/1035-cousins-in-binary-tree) |
 # Breadth-First Search
 |  |
@@ -28,6 +30,7 @@
 | [0100-same-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0226-invert-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0538-convert-bst-to-greater-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/1035-cousins-in-binary-tree) |
 # Two Pointers
 |  |
@@ -184,3 +187,7 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/nerdynikhil/leetcode-grind/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/nerdynikhil/leetcode-grind/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/nerdynikhil/leetcode-grind/tree/master/1908-recyclable-and-low-fat-products) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0538-convert-bst-to-greater-tree) |
