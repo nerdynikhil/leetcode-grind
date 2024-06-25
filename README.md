@@ -9,6 +9,7 @@
 | [0226-invert-binary-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0538-convert-bst-to-greater-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/1035-cousins-in-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Depth-First Search
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [0226-invert-binary-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0538-convert-bst-to-greater-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/1035-cousins-in-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -32,6 +34,7 @@
 | [0226-invert-binary-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0538-convert-bst-to-greater-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/1035-cousins-in-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Two Pointers
 |  |
 | ------- |
@@ -191,3 +194,4 @@
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0538-convert-bst-to-greater-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
