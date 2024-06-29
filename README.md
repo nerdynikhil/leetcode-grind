@@ -243,4 +243,8 @@
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/nerdynikhil/leetcode-grind/tree/master/2128-reverse-prefix-of-word) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/nerdynikhil/leetcode-grind/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
