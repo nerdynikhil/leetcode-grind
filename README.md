@@ -229,6 +229,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [2128-reverse-prefix-of-word](https://github.com/nerdynikhil/leetcode-grind/tree/master/2128-reverse-prefix-of-word) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nerdynikhil/leetcode-grind/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -238,4 +239,8 @@
 |  |
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nerdynikhil/leetcode-grind/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## String
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/nerdynikhil/leetcode-grind/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
