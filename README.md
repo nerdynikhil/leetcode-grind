@@ -6,6 +6,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/nerdynikhil/leetcode-grind/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0538-convert-bst-to-greater-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/1035-cousins-in-binary-tree) |
@@ -16,6 +17,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/nerdynikhil/leetcode-grind/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0538-convert-bst-to-greater-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/1035-cousins-in-binary-tree) |
@@ -27,6 +29,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/nerdynikhil/leetcode-grind/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0226-invert-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/1035-cousins-in-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nerdynikhil/leetcode-grind/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -35,6 +38,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/nerdynikhil/leetcode-grind/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0538-convert-bst-to-greater-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/1035-cousins-in-binary-tree) |
