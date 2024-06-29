@@ -21,6 +21,7 @@
 | [1035-cousins-in-binary-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/1035-cousins-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/1285-balance-a-binary-search-tree) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nerdynikhil/leetcode-grind/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0101-symmetric-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/0226-invert-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/nerdynikhil/leetcode-grind/tree/master/1035-cousins-in-binary-tree) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nerdynikhil/leetcode-grind/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 # Binary Tree
 |  |
 | ------- |
@@ -208,4 +210,9 @@
 # Graph
 |  |
 | ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nerdynikhil/leetcode-grind/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1916-find-center-of-star-graph](https://github.com/nerdynikhil/leetcode-grind/tree/master/1916-find-center-of-star-graph) |
+# Topological Sort
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/nerdynikhil/leetcode-grind/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
