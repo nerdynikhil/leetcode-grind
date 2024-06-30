@@ -248,4 +248,12 @@
 | ------- |
 | [0620-not-boring-movies](https://github.com/nerdynikhil/leetcode-grind/tree/master/0620-not-boring-movies) |
 | [1317-monthly-transactions-i](https://github.com/nerdynikhil/leetcode-grind/tree/master/1317-monthly-transactions-i) |
+## Union Find
+|  |
+| ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nerdynikhil/leetcode-grind/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Graph
+|  |
+| ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nerdynikhil/leetcode-grind/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 <!---LeetCode Topics End-->
