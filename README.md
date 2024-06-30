@@ -225,6 +225,7 @@
 ## Array
 |  |
 | ------- |
+| [0502-ipo](https://github.com/nerdynikhil/leetcode-grind/tree/master/0502-ipo) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nerdynikhil/leetcode-grind/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -238,6 +239,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0502-ipo](https://github.com/nerdynikhil/leetcode-grind/tree/master/0502-ipo) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nerdynikhil/leetcode-grind/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -256,4 +258,12 @@
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/nerdynikhil/leetcode-grind/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Greedy
+|  |
+| ------- |
+| [0502-ipo](https://github.com/nerdynikhil/leetcode-grind/tree/master/0502-ipo) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/nerdynikhil/leetcode-grind/tree/master/0502-ipo) |
 <!---LeetCode Topics End-->
