@@ -232,6 +232,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/nerdynikhil/leetcode-grind/tree/master/0443-string-compression) |
 | [2128-reverse-prefix-of-word](https://github.com/nerdynikhil/leetcode-grind/tree/master/2128-reverse-prefix-of-word) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nerdynikhil/leetcode-grind/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -246,6 +247,7 @@
 ## String
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/nerdynikhil/leetcode-grind/tree/master/0443-string-compression) |
 | [2128-reverse-prefix-of-word](https://github.com/nerdynikhil/leetcode-grind/tree/master/2128-reverse-prefix-of-word) |
 ## Database
 |  |
