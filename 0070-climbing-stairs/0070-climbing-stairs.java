@@ -1,25 +1,25 @@
 class Solution {
-    int totalWays(int currentStair, int targetStair, HashMap<Integer, Integer> memo) {
+    private int totalWays(int currentStair, int targetStair, HashMap<String, Integer> mp) {
         if (currentStair == targetStair)
             return 1;
         if (currentStair > targetStair)
             return 0;
 
-        int currentKey = currentStair;
+        String currentKey = currentStair + "-" + targetStair;
 
-        if (memo.containsKey(currentKey))
-            return memo.get(currentKey);
+        if (mp.containsKey(currentKey))
+            return mp.get(currentKey);
 
-        int oneJump = totalWays(currentStair + 1, targetStair, memo);
-        int twoJumps = totalWays(currentStair + 2, targetStair, memo);
+        int oneJump = totalWays(currentStair + 1, targetStair, mp);
+        int twoJumps = totalWays(currentStair + 2, targetStair, mp);
 
-        memo.put(currentKey, oneJump + twoJumps);
+        mp.put(currentKey, oneJump + twoJumps);
 
-        return memo.get(currentKey);
+        return mp.get(currentKey);
     }
 
     public int climbStairs(int n) {
-        HashMap<Integer, Integer> memo = new HashMap<Integer, Integer>();
-        return totalWays(0, n, memo);
+        HashMap<String, Integer> mp = new HashMap<>();
+        return totalWays(0, n, mp);
     }
 }
