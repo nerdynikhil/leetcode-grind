@@ -288,4 +288,16 @@
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nerdynikhil/leetcode-grind/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nerdynikhil/leetcode-grind/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nerdynikhil/leetcode-grind/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nerdynikhil/leetcode-grind/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
