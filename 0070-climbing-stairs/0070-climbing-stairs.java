@@ -1,11 +1,11 @@
 class Solution {
-    private int totalWays(int currentStair, int targetStair, HashMap<String, Integer> mp) {
+    private int totalWays(int currentStair, int targetStair, HashMap<Integer, Integer> mp) {
         if (currentStair == targetStair)
             return 1;
         if (currentStair > targetStair)
             return 0;
 
-        String currentKey = currentStair + "-" + targetStair;
+        int currentKey = currentStair;
 
         if (mp.containsKey(currentKey))
             return mp.get(currentKey);
@@ -19,7 +19,7 @@ class Solution {
     }
 
     public int climbStairs(int n) {
-        HashMap<String, Integer> mp = new HashMap<>();
+        HashMap<Integer, Integer> mp = new HashMap<>();
         return totalWays(0, n, mp);
     }
 }
