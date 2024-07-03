@@ -1,29 +1,25 @@
 class Solution {
-
-    int minCost(int[] cost, int currentStep, HashMap<Integer, Integer> memo) {
-
-        if (currentStep == cost.length)
+    private int findMinCost(int[] cost, int currentIndex, HashMap<Integer, Integer> cache) {
+        if (currentIndex == cost.length)
             return 0;
-
-        if (currentStep > cost.length)
+        if (currentIndex > cost.length)
             return 1000;
 
-        int currentKey = currentStep;
+        int currentKey = currentIndex;
 
-        if (memo.containsKey(currentKey)) {
-            return memo.get(currentKey);
-        }
+        if (cache.containsKey(currentKey))
+            return cache.get(currentKey);
 
-        int oneJump = cost[currentStep] + minCost(cost, currentStep + 1, memo);
-        int twoJumps = cost[currentStep] + minCost(cost, currentStep + 2, memo);
+        int oneJump = cost[currentIndex] + findMinCost(cost, currentIndex + 1, cache);
+        int twoJumps = cost[currentIndex] + findMinCost(cost, currentIndex + 2, cache);
 
-        memo.put(currentKey, Math.min(oneJump, twoJumps));
+        cache.put(currentKey, Math.min(oneJump, twoJumps));
 
-        return memo.get(currentKey);
+        return cache.get(currentKey);
     }
 
     public int minCostClimbingStairs(int[] cost) {
-        HashMap<Integer, Integer> memo = new HashMap<Integer, Integer>();
-        return Math.min(minCost(cost, 0, memo), minCost(cost, 1, memo));
+        HashMap<Integer, Integer> cache = new HashMap<Integer, Integer>();
+        return Math.min(findMinCost(cost, 0, cache), findMinCost(cost, 1, cache));
     }
 }
