@@ -1,41 +1,39 @@
 class Solution {
-
-    boolean find(int[] nums, int currIdx, int targetSum, HashMap<String, Boolean> memo) {
-        if (targetSum == 0)
+    private boolean isPossible(int[] nums, int currentIdx, int targetSum, HashMap<String, Boolean> cache) {
+        if (targetSum == 0) {
             return true;
-        if (currIdx == nums.length || targetSum < 0)
+        }
+
+        if (currentIdx >= nums.length || targetSum < 0)
             return false;
 
-        String currentKey = Integer.toString(currIdx) + "-" + Integer.toString(targetSum);
+        String currentKey = currentIdx + "-" + targetSum;
 
-        if (memo.containsKey(currentKey)) {
-            return memo.get(currentKey);
-        }
+        if (cache.containsKey(currentKey))
+            return cache.get(currentKey);
 
         boolean consider = false;
 
-        if (nums[currIdx] <= targetSum) {
-            if(find(nums, currIdx + 1, targetSum - nums[currIdx], memo))
+        if (nums[currentIdx] <= targetSum) {
+            if(isPossible(nums, currentIdx + 1, targetSum - nums[currentIdx], cache))
                 return true;
         }
+        boolean notConsider = isPossible(nums, currentIdx + 1, targetSum, cache);
 
-        boolean notConsider = find(nums, currIdx + 1, targetSum, memo);
+        cache.put(currentKey, consider || notConsider);
 
-        memo.put(currentKey, consider || notConsider);
-
-        return memo.get(currentKey);
+        return cache.get(currentKey);
     }
 
     public boolean canPartition(int[] nums) {
-        int totalSum = 0;
-
+        int sum = 0;
         for (int num : nums) {
-            totalSum += num;
+            sum += num;
         }
 
-        if (totalSum % 2 != 0)
+        if (sum % 2 != 0)
             return false;
 
-        return find(nums, 0, totalSum / 2, new HashMap<String, Boolean>());
+        return isPossible(nums, 0, sum / 2, new HashMap<String, Boolean>());
     }
 }
