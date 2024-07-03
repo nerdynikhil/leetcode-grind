@@ -225,6 +225,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nerdynikhil/leetcode-grind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0198-house-robber](https://github.com/nerdynikhil/leetcode-grind/tree/master/0198-house-robber) |
 | [0330-patching-array](https://github.com/nerdynikhil/leetcode-grind/tree/master/0330-patching-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nerdynikhil/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -243,6 +244,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nerdynikhil/leetcode-grind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nerdynikhil/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nerdynikhil/leetcode-grind/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -324,4 +326,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/nerdynikhil/leetcode-grind/tree/master/1013-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nerdynikhil/leetcode-grind/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
