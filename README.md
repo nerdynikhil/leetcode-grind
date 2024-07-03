@@ -228,6 +228,7 @@
 | [0198-house-robber](https://github.com/nerdynikhil/leetcode-grind/tree/master/0198-house-robber) |
 | [0330-patching-array](https://github.com/nerdynikhil/leetcode-grind/tree/master/0330-patching-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nerdynikhil/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/nerdynikhil/leetcode-grind/tree/master/0416-partition-equal-subset-sum) |
 | [0502-ipo](https://github.com/nerdynikhil/leetcode-grind/tree/master/0502-ipo) |
 | [0747-min-cost-climbing-stairs](https://github.com/nerdynikhil/leetcode-grind/tree/master/0747-min-cost-climbing-stairs) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nerdynikhil/leetcode-grind/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -305,6 +306,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/nerdynikhil/leetcode-grind/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/nerdynikhil/leetcode-grind/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/nerdynikhil/leetcode-grind/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/nerdynikhil/leetcode-grind/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nerdynikhil/leetcode-grind/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/nerdynikhil/leetcode-grind/tree/master/1236-n-th-tribonacci-number) |
