@@ -1,22 +1,22 @@
 class Solution {
-    int maxMoney(int[] nums, int currentHouse, HashMap<Integer, Integer> memo) {
+    private int findMaxMoney(int[] nums, int currentHouse, HashMap<Integer, Integer> cache) {
         if (currentHouse >= nums.length)
             return 0;
 
         int currentKey = currentHouse;
 
-        if (memo.containsKey(currentKey))
-            return memo.get(currentKey);
+        if (cache.containsKey(currentKey))
+            return cache.get(currentKey);
 
-        int rob = nums[currentHouse] + maxMoney(nums, currentHouse + 2, memo);
-        int notRob = maxMoney(nums, currentHouse + 1, memo);
+        int rob = nums[currentHouse] + findMaxMoney(nums, currentHouse + 2, cache);
+        int notRob = findMaxMoney(nums, currentHouse + 1, cache);
 
-        memo.put(currentKey, Math.max(rob, notRob));
-        return Math.max(rob, notRob);
+        cache.put(currentKey, Math.max(rob, notRob));
+        return cache.get(currentKey);
     }
 
     public int rob(int[] nums) {
-        HashMap<Integer, Integer> memo = new HashMap<Integer, Integer>();
-        return maxMoney(nums, 0, memo);
+        HashMap<Integer, Integer> cache = new HashMap<>();
+        return Math.max(findMaxMoney(nums, 0, cache), findMaxMoney(nums, 1, cache));
     }
 }
