@@ -308,6 +308,7 @@
 | [0070-climbing-stairs](https://github.com/nerdynikhil/leetcode-grind/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nerdynikhil/leetcode-grind/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/nerdynikhil/leetcode-grind/tree/master/1236-n-th-tribonacci-number) |
+| [1642-water-bottles](https://github.com/nerdynikhil/leetcode-grind/tree/master/1642-water-bottles) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -343,5 +344,6 @@
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/nerdynikhil/leetcode-grind/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/nerdynikhil/leetcode-grind/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
