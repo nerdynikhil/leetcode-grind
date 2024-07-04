@@ -333,4 +333,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nerdynikhil/leetcode-grind/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/nerdynikhil/leetcode-grind/tree/master/2299-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/nerdynikhil/leetcode-grind/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
