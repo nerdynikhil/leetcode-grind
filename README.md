@@ -264,6 +264,7 @@
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/nerdynikhil/leetcode-grind/tree/master/0196-delete-duplicate-emails) |
 | [0620-not-boring-movies](https://github.com/nerdynikhil/leetcode-grind/tree/master/0620-not-boring-movies) |
 | [1317-monthly-transactions-i](https://github.com/nerdynikhil/leetcode-grind/tree/master/1317-monthly-transactions-i) |
 | [1670-patients-with-a-condition](https://github.com/nerdynikhil/leetcode-grind/tree/master/1670-patients-with-a-condition) |
