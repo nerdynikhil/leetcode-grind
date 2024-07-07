@@ -266,6 +266,7 @@
 | ------- |
 | [0620-not-boring-movies](https://github.com/nerdynikhil/leetcode-grind/tree/master/0620-not-boring-movies) |
 | [1317-monthly-transactions-i](https://github.com/nerdynikhil/leetcode-grind/tree/master/1317-monthly-transactions-i) |
+| [1670-patients-with-a-condition](https://github.com/nerdynikhil/leetcode-grind/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/nerdynikhil/leetcode-grind/tree/master/1811-fix-names-in-a-table) |
 ## Union Find
 |  |
