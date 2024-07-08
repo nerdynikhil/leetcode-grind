@@ -265,6 +265,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/nerdynikhil/leetcode-grind/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/nerdynikhil/leetcode-grind/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/nerdynikhil/leetcode-grind/tree/master/0196-delete-duplicate-emails) |
 | [0620-not-boring-movies](https://github.com/nerdynikhil/leetcode-grind/tree/master/0620-not-boring-movies) |
