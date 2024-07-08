@@ -264,6 +264,7 @@
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/nerdynikhil/leetcode-grind/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/nerdynikhil/leetcode-grind/tree/master/0196-delete-duplicate-emails) |
 | [0620-not-boring-movies](https://github.com/nerdynikhil/leetcode-grind/tree/master/0620-not-boring-movies) |
 | [1135-customers-who-bought-all-products](https://github.com/nerdynikhil/leetcode-grind/tree/master/1135-customers-who-bought-all-products) |
