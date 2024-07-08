@@ -1,17 +1,13 @@
 class Solution {
-    public int findTheWinner(int n, int k) {
-        List<Integer> arr = new ArrayList<>();
-        for (int i=1;i<=n;i++){
-            arr.add(i);
-        }
+    int findWinnerIdx(int n, int k) {
+        if(n == 1)
+            return 0; 
+        int idx = findWinnerIdx(n-1, k) ;
+        idx = (idx + k) % n; 
+        return idx;
+    }
 
-        int i = 0;
-        while (arr.size() > 1){
-            int idx= (i+k-1) % arr.size();
-            arr.remove(idx);
-            i = idx;
-        }
-        
-        return arr.get(0);
+    public int findTheWinner(int n, int k) {
+        return findWinnerIdx(n, k) +1;
     }
 }
