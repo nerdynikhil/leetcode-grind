@@ -234,6 +234,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/nerdynikhil/leetcode-grind/tree/master/0747-min-cost-climbing-stairs) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nerdynikhil/leetcode-grind/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/nerdynikhil/leetcode-grind/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/nerdynikhil/leetcode-grind/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/nerdynikhil/leetcode-grind/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nerdynikhil/leetcode-grind/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nerdynikhil/leetcode-grind/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -262,6 +263,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nerdynikhil/leetcode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0443-string-compression](https://github.com/nerdynikhil/leetcode-grind/tree/master/0443-string-compression) |
+| [1720-crawler-log-folder](https://github.com/nerdynikhil/leetcode-grind/tree/master/1720-crawler-log-folder) |
 | [2128-reverse-prefix-of-word](https://github.com/nerdynikhil/leetcode-grind/tree/master/2128-reverse-prefix-of-word) |
 ## Database
 |  |
@@ -359,4 +361,8 @@
 | [1803-average-waiting-time](https://github.com/nerdynikhil/leetcode-grind/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nerdynikhil/leetcode-grind/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/nerdynikhil/leetcode-grind/tree/master/2299-merge-nodes-in-between-zeros) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/nerdynikhil/leetcode-grind/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
