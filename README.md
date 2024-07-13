@@ -278,6 +278,7 @@
 | [1135-customers-who-bought-all-products](https://github.com/nerdynikhil/leetcode-grind/tree/master/1135-customers-who-bought-all-products) |
 | [1317-monthly-transactions-i](https://github.com/nerdynikhil/leetcode-grind/tree/master/1317-monthly-transactions-i) |
 | [1670-patients-with-a-condition](https://github.com/nerdynikhil/leetcode-grind/tree/master/1670-patients-with-a-condition) |
+| [1801-average-time-of-process-per-machine](https://github.com/nerdynikhil/leetcode-grind/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/nerdynikhil/leetcode-grind/tree/master/1811-fix-names-in-a-table) |
 ## Union Find
 |  |
