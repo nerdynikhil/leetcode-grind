@@ -234,6 +234,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/nerdynikhil/leetcode-grind/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/nerdynikhil/leetcode-grind/tree/master/1036-rotting-oranges) |
 | [1207-delete-nodes-and-return-forest](https://github.com/nerdynikhil/leetcode-grind/tree/master/1207-delete-nodes-and-return-forest) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/nerdynikhil/leetcode-grind/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nerdynikhil/leetcode-grind/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/nerdynikhil/leetcode-grind/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/nerdynikhil/leetcode-grind/tree/master/1720-crawler-log-folder) |
@@ -410,4 +411,5 @@
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/nerdynikhil/leetcode-grind/tree/master/1036-rotting-oranges) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/nerdynikhil/leetcode-grind/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
