@@ -237,6 +237,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/nerdynikhil/leetcode-grind/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nerdynikhil/leetcode-grind/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/nerdynikhil/leetcode-grind/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nerdynikhil/leetcode-grind/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/nerdynikhil/leetcode-grind/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/nerdynikhil/leetcode-grind/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nerdynikhil/leetcode-grind/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -300,6 +301,7 @@
 | [0330-patching-array](https://github.com/nerdynikhil/leetcode-grind/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/nerdynikhil/leetcode-grind/tree/master/0502-ipo) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/nerdynikhil/leetcode-grind/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nerdynikhil/leetcode-grind/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -412,4 +414,5 @@
 | ------- |
 | [1036-rotting-oranges](https://github.com/nerdynikhil/leetcode-grind/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/nerdynikhil/leetcode-grind/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nerdynikhil/leetcode-grind/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
