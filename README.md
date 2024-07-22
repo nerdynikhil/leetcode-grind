@@ -226,6 +226,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nerdynikhil/leetcode-grind/tree/master/0004-median-of-two-sorted-arrays) |
+| [0084-largest-rectangle-in-histogram](https://github.com/nerdynikhil/leetcode-grind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/nerdynikhil/leetcode-grind/tree/master/0198-house-robber) |
 | [0330-patching-array](https://github.com/nerdynikhil/leetcode-grind/tree/master/0330-patching-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nerdynikhil/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -379,6 +380,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/nerdynikhil/leetcode-grind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0726-number-of-atoms](https://github.com/nerdynikhil/leetcode-grind/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nerdynikhil/leetcode-grind/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/nerdynikhil/leetcode-grind/tree/master/1720-crawler-log-folder) |
@@ -419,4 +421,8 @@
 | [1036-rotting-oranges](https://github.com/nerdynikhil/leetcode-grind/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/nerdynikhil/leetcode-grind/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nerdynikhil/leetcode-grind/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/nerdynikhil/leetcode-grind/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
