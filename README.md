@@ -240,6 +240,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/nerdynikhil/leetcode-grind/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nerdynikhil/leetcode-grind/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/nerdynikhil/leetcode-grind/tree/master/1720-crawler-log-folder) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/nerdynikhil/leetcode-grind/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/nerdynikhil/leetcode-grind/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nerdynikhil/leetcode-grind/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2846-robot-collisions](https://github.com/nerdynikhil/leetcode-grind/tree/master/2846-robot-collisions) |
@@ -264,6 +265,7 @@
 | [0502-ipo](https://github.com/nerdynikhil/leetcode-grind/tree/master/0502-ipo) |
 | [0726-number-of-atoms](https://github.com/nerdynikhil/leetcode-grind/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/nerdynikhil/leetcode-grind/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/nerdynikhil/leetcode-grind/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2846-robot-collisions](https://github.com/nerdynikhil/leetcode-grind/tree/master/2846-robot-collisions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nerdynikhil/leetcode-grind/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -356,6 +358,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/nerdynikhil/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/nerdynikhil/leetcode-grind/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/nerdynikhil/leetcode-grind/tree/master/1207-delete-nodes-and-return-forest) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/nerdynikhil/leetcode-grind/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Recursion
 |  |
 | ------- |
