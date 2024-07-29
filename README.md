@@ -237,6 +237,7 @@
 | [1036-rotting-oranges](https://github.com/nerdynikhil/leetcode-grind/tree/master/1036-rotting-oranges) |
 | [1207-delete-nodes-and-return-forest](https://github.com/nerdynikhil/leetcode-grind/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/nerdynikhil/leetcode-grind/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/nerdynikhil/leetcode-grind/tree/master/1511-count-number-of-teams) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nerdynikhil/leetcode-grind/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/nerdynikhil/leetcode-grind/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nerdynikhil/leetcode-grind/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -348,6 +349,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/nerdynikhil/leetcode-grind/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nerdynikhil/leetcode-grind/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/nerdynikhil/leetcode-grind/tree/master/1236-n-th-tribonacci-number) |
+| [1511-count-number-of-teams](https://github.com/nerdynikhil/leetcode-grind/tree/master/1511-count-number-of-teams) |
 ## Memoization
 |  |
 | ------- |
@@ -448,4 +450,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/nerdynikhil/leetcode-grind/tree/master/0948-sort-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/nerdynikhil/leetcode-grind/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
