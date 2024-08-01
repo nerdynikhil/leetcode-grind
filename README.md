@@ -245,6 +245,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/nerdynikhil/leetcode-grind/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/nerdynikhil/leetcode-grind/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nerdynikhil/leetcode-grind/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2727-number-of-senior-citizens](https://github.com/nerdynikhil/leetcode-grind/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/nerdynikhil/leetcode-grind/tree/master/2846-robot-collisions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nerdynikhil/leetcode-grind/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
@@ -281,6 +282,7 @@
 | [1720-crawler-log-folder](https://github.com/nerdynikhil/leetcode-grind/tree/master/1720-crawler-log-folder) |
 | [2128-reverse-prefix-of-word](https://github.com/nerdynikhil/leetcode-grind/tree/master/2128-reverse-prefix-of-word) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/nerdynikhil/leetcode-grind/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2727-number-of-senior-citizens](https://github.com/nerdynikhil/leetcode-grind/tree/master/2727-number-of-senior-citizens) |
 ## Database
 |  |
 | ------- |
