@@ -391,6 +391,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0725-split-linked-list-in-parts](https://github.com/nerdynikhil/leetcode-grind/tree/master/0725-split-linked-list-in-parts) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/nerdynikhil/leetcode-grind/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
