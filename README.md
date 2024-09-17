@@ -233,6 +233,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/nerdynikhil/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/nerdynikhil/leetcode-grind/tree/master/0416-partition-equal-subset-sum) |
 | [0502-ipo](https://github.com/nerdynikhil/leetcode-grind/tree/master/0502-ipo) |
+| [0539-minimum-time-difference](https://github.com/nerdynikhil/leetcode-grind/tree/master/0539-minimum-time-difference) |
 | [0747-min-cost-climbing-stairs](https://github.com/nerdynikhil/leetcode-grind/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/nerdynikhil/leetcode-grind/tree/master/0948-sort-an-array) |
 | [0978-valid-mountain-array](https://github.com/nerdynikhil/leetcode-grind/tree/master/0978-valid-mountain-array) |
@@ -274,6 +275,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nerdynikhil/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/nerdynikhil/leetcode-grind/tree/master/0502-ipo) |
+| [0539-minimum-time-difference](https://github.com/nerdynikhil/leetcode-grind/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/nerdynikhil/leetcode-grind/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/nerdynikhil/leetcode-grind/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nerdynikhil/leetcode-grind/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -287,6 +289,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nerdynikhil/leetcode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0443-string-compression](https://github.com/nerdynikhil/leetcode-grind/tree/master/0443-string-compression) |
+| [0539-minimum-time-difference](https://github.com/nerdynikhil/leetcode-grind/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/nerdynikhil/leetcode-grind/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nerdynikhil/leetcode-grind/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/nerdynikhil/leetcode-grind/tree/master/1720-crawler-log-folder) |
@@ -349,6 +352,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nerdynikhil/leetcode-grind/tree/master/0070-climbing-stairs) |
+| [0539-minimum-time-difference](https://github.com/nerdynikhil/leetcode-grind/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/nerdynikhil/leetcode-grind/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/nerdynikhil/leetcode-grind/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/nerdynikhil/leetcode-grind/tree/master/1642-water-bottles) |
