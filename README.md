@@ -276,6 +276,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/nerdynikhil/leetcode-grind/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nerdynikhil/leetcode-grind/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nerdynikhil/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/nerdynikhil/leetcode-grind/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/nerdynikhil/leetcode-grind/tree/master/0539-minimum-time-difference) |
@@ -291,6 +292,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nerdynikhil/leetcode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/nerdynikhil/leetcode-grind/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/nerdynikhil/leetcode-grind/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/nerdynikhil/leetcode-grind/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/nerdynikhil/leetcode-grind/tree/master/0726-number-of-atoms) |
@@ -383,6 +385,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nerdynikhil/leetcode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/nerdynikhil/leetcode-grind/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nerdynikhil/leetcode-grind/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nerdynikhil/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/nerdynikhil/leetcode-grind/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/nerdynikhil/leetcode-grind/tree/master/0920-uncommon-words-from-two-sentences) |
