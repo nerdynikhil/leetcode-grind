@@ -229,6 +229,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/nerdynikhil/leetcode-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nerdynikhil/leetcode-grind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/nerdynikhil/leetcode-grind/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/nerdynikhil/leetcode-grind/tree/master/0217-contains-duplicate) |
 | [0330-patching-array](https://github.com/nerdynikhil/leetcode-grind/tree/master/0330-patching-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nerdynikhil/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/nerdynikhil/leetcode-grind/tree/master/0416-partition-equal-subset-sum) |
@@ -274,6 +275,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/nerdynikhil/leetcode-grind/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nerdynikhil/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/nerdynikhil/leetcode-grind/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/nerdynikhil/leetcode-grind/tree/master/0539-minimum-time-difference) |
@@ -380,6 +382,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nerdynikhil/leetcode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/nerdynikhil/leetcode-grind/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nerdynikhil/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/nerdynikhil/leetcode-grind/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/nerdynikhil/leetcode-grind/tree/master/0920-uncommon-words-from-two-sentences) |
