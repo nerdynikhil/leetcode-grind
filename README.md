@@ -228,6 +228,7 @@
 | [0001-two-sum](https://github.com/nerdynikhil/leetcode-grind/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nerdynikhil/leetcode-grind/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nerdynikhil/leetcode-grind/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/nerdynikhil/leetcode-grind/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nerdynikhil/leetcode-grind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/nerdynikhil/leetcode-grind/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/nerdynikhil/leetcode-grind/tree/master/0217-contains-duplicate) |
@@ -276,6 +277,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nerdynikhil/leetcode-grind/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nerdynikhil/leetcode-grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nerdynikhil/leetcode-grind/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nerdynikhil/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -293,6 +295,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nerdynikhil/leetcode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/nerdynikhil/leetcode-grind/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/nerdynikhil/leetcode-grind/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/nerdynikhil/leetcode-grind/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/nerdynikhil/leetcode-grind/tree/master/0539-minimum-time-difference) |
@@ -386,6 +389,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/nerdynikhil/leetcode-grind/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nerdynikhil/leetcode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/nerdynikhil/leetcode-grind/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nerdynikhil/leetcode-grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nerdynikhil/leetcode-grind/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nerdynikhil/leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
