@@ -1,11 +1,9 @@
 class Solution {
     public int hammingWeight(int n) {
-        String binaryString = Integer.toBinaryString(n);
         int count = 0;
-        for (char c : binaryString.toCharArray()) {
-            if (c == '1') {
-                count++;
-            }
+        while (n != 0) {
+            count += (n & 1);
+            n >>>= 1; // Unsigned right shift
         }
         return count;
     }
