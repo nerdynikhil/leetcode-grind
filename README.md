@@ -407,6 +407,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nerdynikhil/leetcode-grind/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/nerdynikhil/leetcode-grind/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/nerdynikhil/leetcode-grind/tree/master/0948-sort-an-array) |
 ## Linked List
 |  |
@@ -490,4 +491,8 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/nerdynikhil/leetcode-grind/tree/master/1511-count-number-of-teams) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/nerdynikhil/leetcode-grind/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
