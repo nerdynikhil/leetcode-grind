@@ -337,6 +337,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nerdynikhil/leetcode-grind/tree/master/0023-merge-k-sorted-lists) |
 | [0502-ipo](https://github.com/nerdynikhil/leetcode-grind/tree/master/0502-ipo) |
 | [0948-sort-an-array](https://github.com/nerdynikhil/leetcode-grind/tree/master/0948-sort-an-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nerdynikhil/leetcode-grind/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -407,11 +408,13 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nerdynikhil/leetcode-grind/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/nerdynikhil/leetcode-grind/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/nerdynikhil/leetcode-grind/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/nerdynikhil/leetcode-grind/tree/master/0948-sort-an-array) |
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nerdynikhil/leetcode-grind/tree/master/0023-merge-k-sorted-lists) |
 | [0725-split-linked-list-in-parts](https://github.com/nerdynikhil/leetcode-grind/tree/master/0725-split-linked-list-in-parts) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/nerdynikhil/leetcode-grind/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -473,6 +476,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nerdynikhil/leetcode-grind/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/nerdynikhil/leetcode-grind/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
