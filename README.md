@@ -258,6 +258,7 @@
 | [2727-number-of-senior-citizens](https://github.com/nerdynikhil/leetcode-grind/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/nerdynikhil/leetcode-grind/tree/master/2846-robot-collisions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nerdynikhil/leetcode-grind/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3429-special-array-i](https://github.com/nerdynikhil/leetcode-grind/tree/master/3429-special-array-i) |
 ## Two Pointers
 |  |
 | ------- |
