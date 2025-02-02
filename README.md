@@ -253,6 +253,7 @@
 | [1720-crawler-log-folder](https://github.com/nerdynikhil/leetcode-grind/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nerdynikhil/leetcode-grind/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/nerdynikhil/leetcode-grind/tree/master/1803-average-waiting-time) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/nerdynikhil/leetcode-grind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nerdynikhil/leetcode-grind/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nerdynikhil/leetcode-grind/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/nerdynikhil/leetcode-grind/tree/master/2727-number-of-senior-citizens) |
