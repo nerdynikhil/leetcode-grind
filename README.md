@@ -308,6 +308,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nerdynikhil/leetcode-grind/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/nerdynikhil/leetcode-grind/tree/master/1720-crawler-log-folder) |
 | [1894-merge-strings-alternately](https://github.com/nerdynikhil/leetcode-grind/tree/master/1894-merge-strings-alternately) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nerdynikhil/leetcode-grind/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2128-reverse-prefix-of-word](https://github.com/nerdynikhil/leetcode-grind/tree/master/2128-reverse-prefix-of-word) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/nerdynikhil/leetcode-grind/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2727-number-of-senior-citizens](https://github.com/nerdynikhil/leetcode-grind/tree/master/2727-number-of-senior-citizens) |
@@ -404,6 +405,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/nerdynikhil/leetcode-grind/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nerdynikhil/leetcode-grind/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nerdynikhil/leetcode-grind/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nerdynikhil/leetcode-grind/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Recursion
 |  |
 | ------- |
@@ -496,6 +498,7 @@
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/nerdynikhil/leetcode-grind/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/nerdynikhil/leetcode-grind/tree/master/0948-sort-an-array) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nerdynikhil/leetcode-grind/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Binary Indexed Tree
 |  |
 | ------- |
