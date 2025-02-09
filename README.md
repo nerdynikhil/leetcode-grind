@@ -258,6 +258,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/nerdynikhil/leetcode-grind/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nerdynikhil/leetcode-grind/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nerdynikhil/leetcode-grind/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2448-count-number-of-bad-pairs](https://github.com/nerdynikhil/leetcode-grind/tree/master/2448-count-number-of-bad-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/nerdynikhil/leetcode-grind/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/nerdynikhil/leetcode-grind/tree/master/2846-robot-collisions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/nerdynikhil/leetcode-grind/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -376,6 +377,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/nerdynikhil/leetcode-grind/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/nerdynikhil/leetcode-grind/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nerdynikhil/leetcode-grind/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2448-count-number-of-bad-pairs](https://github.com/nerdynikhil/leetcode-grind/tree/master/2448-count-number-of-bad-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -409,6 +411,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nerdynikhil/leetcode-grind/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nerdynikhil/leetcode-grind/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nerdynikhil/leetcode-grind/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/nerdynikhil/leetcode-grind/tree/master/2448-count-number-of-bad-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -503,6 +506,7 @@
 | [0948-sort-an-array](https://github.com/nerdynikhil/leetcode-grind/tree/master/0948-sort-an-array) |
 | [1364-tuple-with-same-product](https://github.com/nerdynikhil/leetcode-grind/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nerdynikhil/leetcode-grind/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/nerdynikhil/leetcode-grind/tree/master/2448-count-number-of-bad-pairs) |
 ## Binary Indexed Tree
 |  |
 | ------- |
