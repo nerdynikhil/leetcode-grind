@@ -315,6 +315,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/nerdynikhil/leetcode-grind/tree/master/2128-reverse-prefix-of-word) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/nerdynikhil/leetcode-grind/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2727-number-of-senior-citizens](https://github.com/nerdynikhil/leetcode-grind/tree/master/2727-number-of-senior-citizens) |
+| [3447-clear-digits](https://github.com/nerdynikhil/leetcode-grind/tree/master/3447-clear-digits) |
 ## Database
 |  |
 | ------- |
@@ -438,6 +439,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nerdynikhil/leetcode-grind/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/nerdynikhil/leetcode-grind/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2846-robot-collisions](https://github.com/nerdynikhil/leetcode-grind/tree/master/2846-robot-collisions) |
+| [3447-clear-digits](https://github.com/nerdynikhil/leetcode-grind/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
@@ -446,6 +448,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nerdynikhil/leetcode-grind/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/nerdynikhil/leetcode-grind/tree/master/1720-crawler-log-folder) |
 | [2846-robot-collisions](https://github.com/nerdynikhil/leetcode-grind/tree/master/2846-robot-collisions) |
+| [3447-clear-digits](https://github.com/nerdynikhil/leetcode-grind/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
